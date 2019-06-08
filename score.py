@@ -24,7 +24,7 @@ for studentnumber in names:
     generate_scores(studentnumber)
 
 for i in names:
-    ll = scores[i]['language and literature']
+    ll = scores[i]['Language and literature']
     ma = scores[i]['math']
     en = scores[i]['english']
     logging.info(i+"\t\t"+str(ll)+'\t\t\t'+str(ma)+'\t'+str(en))
