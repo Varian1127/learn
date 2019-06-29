@@ -1,12 +1,7 @@
 *.exe
 .DS_Store
-C++/G/costOfBooks
-C++/G/numberLikeTheLeaderNumber
-C++/G/.vscode/launch.json
-C++/G/.vscode/settings.json
-C++/G/.vscode/tasks.json
-C++/G/costOfBooks.dSYM/Contents/Info.plist
-C++/G/costOfBooks.dSYM/Contents/Resources/DWARF/costOfBooks
-C++/G/numberLikeTheLeaderNumber.dSYM/Contents/Info.plist
-C++/G/numberLikeTheLeaderNumber.dSYM/Contents/Resources/DWARF/numberLikeTheLeaderNumber
+launch.json
+settings.json
+tasks.json
+Info.plist
 *.txt
